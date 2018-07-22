@@ -5,4 +5,5 @@ Git tracks changes.
 
 Creating a new branch is quick and simple.
 
-Dev a new bug.
+Developermentting a new bug.
+
