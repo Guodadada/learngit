@@ -6,3 +6,4 @@ Git tracks changes.
 Creating a new branch is quick and simple.
 
 Resolve a terrible bug.
+Developermentting a new bug.
